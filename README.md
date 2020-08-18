@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello fellow nerds 👋
 
-<!--
-**Zickydeng/Zickydeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Bienvenue
 
-Here are some ideas to get you started:
+I'm a FullStack Developer, a coding enthusiast and a University of Toronto graduate. I love creating practical tools/automized miscellaneous daily task through coding.I also like developing trading algorithm, financial modelling via Quantopian.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a research assistant at University of Toronto.
+- 🌱 I’m currently learning Back-end programming
+- 👯 I’m looking to collaborate on any front-ends and financial analysis projects
+- 💬 Ask me about community works and Geoscience info.
+- 📫 How to reach me: elijah.deng@mail.utoronto.ca or dengzicky99@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to ponder about space and beyond
