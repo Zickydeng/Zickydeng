@@ -1,4 +1,4 @@
-### Hello fellow nerds 👋
+### Hello 👋
 
 #### Bienvenue
 #### Personal Profile
