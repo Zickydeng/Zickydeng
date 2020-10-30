@@ -1,13 +1,12 @@
-### Hello 👋
+### Hi there👋
 
 #### Bienvenue
 #### Personal Profile
-I'm a friendly individual that possess great team spirit and ability to maintain cooperative working relations with colleagues and a very proactive individual with excellence interpersonal, verbal and written communication skills. Am also very organize, enthusiastic detail-oriented and a result-driven individual with proven ability to accomplish all my tasks diligently.
-I like identifying issues and solving problems with a positive attitude. I'm adaptable and often customer-focused with an ability to precisely and accurately collect data via web scrapping/APIs calls etc. I like managing schedules and always willing to advanced/learn new technologies and love developing trading algorithms and financial modelling via Quantopian as you can see below.
+I am Elijah A Deng. I am a frontend web developer, an avid learner who is super passionate about web technologies and love building great and useful cool projects. I love the learning process and I've thus make it habitual. As we all know knowlodge is power, for me learning is a super power.
 
 - 🔭 I’m currently working as a research assistant at University of Toronto.
-- 🌱 I published thesis 'Magnetism Project.' in a Scientific a Journal(both in Data in Brief & FSI). 
-- 👯 I’m looking to collaborate on any front-ends and financial analysis projects
+- 🌱 I've published a thesis paper 'Magnetism Project' in two best known Scientific Journals: Data in Brief & Forensic science International. 
+- 👯 I’m looking to collaborate on any front-ends and financial analysis projects [Fintech]
 - 💬 Ask me about community works and Geoscience info.
 - 📫 How to reach me: elijah.deng@mail.utoronto.ca or dengzicky99@gmail.com
 - 😄 Pronouns: He/Him
