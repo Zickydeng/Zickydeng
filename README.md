@@ -2,7 +2,7 @@
 
 #### Bienvenue
 #### Personal Profile
-I am Elijah A Deng. I am a frontend web developer, an avid learner who is super passionate about web technologies and love building great and useful cool projects. I love the learning process and I've thus make it habitual. As we all know knowlodge is power, for me learning is a super power.
+My name is Elijah  A  Deng. I am a frontend web developer, an avid learner who is super passionate about web technologies and love building great and useful cool projects. I love the learning process and I've thus make it habitual. As the famous adage goes "knowlodge is power," thus making learning a super power.
 
 - 🔭 I’m currently working as a research assistant at University of Toronto.
 - 🌱 I've published a thesis paper 'Magnetism Project' in two best known Scientific Journals: Data in Brief & Forensic science International. 
