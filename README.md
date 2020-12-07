@@ -10,5 +10,5 @@ My name is Elijah  A  Deng, I am a frontend React developer, an avid learner who
 - 💬 Ask me about community works and Geoscience info.
 - 📫 How to reach me: elijah.deng@mail.utoronto.ca or dengzicky99@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to ponder about space and beyond. Had a thing with Astrophysics
+- ⚡ Fun fact: when am not coding, I like reading about space/Astrophysics phenomena.
 - website:https://zickydeng.github.io/
