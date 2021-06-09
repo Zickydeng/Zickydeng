@@ -11,7 +11,7 @@ My name is Elijah  A  Deng (aka Zicky), I'm an accomplished frontend React devel
 - 📫 How to reach me: elijah.deng@mail.utoronto.ca or dengzicky99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: when am not coding, I'm following/reading about technology, checking crypto, anything new in tech.
-- - website:https://resumportfolio.herokuapp.com/
+- - Portfolio :https://resumportfolio.herokuapp.com/
 
 ---
 #### 🎯 SKILLS & TOOLS:
