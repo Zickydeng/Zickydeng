@@ -32,6 +32,7 @@ Software Development:<br>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code></p>
 <p><code><img width="12%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
 </p>
+
 ---
 
 #### 🌐 SOCIAL MEDIA LINKS:
