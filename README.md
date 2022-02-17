@@ -2,7 +2,7 @@
 
 #### Bienvenue
 #### Personal Profile
-My name is Elijah  A  Deng (aka Zicky), I'm an accomplished frontend React developer, an avid learner who is super passionate about web technology.I'm also a creative problem solver who identify issues and solve them with positive attitude. I develop plans, take ownership and ddeliver solutions. A tenacious self-starter, highly driven individual who is obsessed with clean code and best practices as I understands web/application security and importance of data privacy. I love keeping up to date with frontend and backend trends.
+My name is Elijah  A  Deng (aka Zicky), I'm an accomplished Salesforce/frontend React developer, an avid learner who is super passionate about web technology.I'm also a creative problem solver who identify issues and solve them with positive attitude. I develop plans, take ownership and ddeliver solutions. A tenacious self-starter, highly driven individual who is obsessed with clean code and best practices as I understands web/application security and importance of data privacy. I love keeping up to date with frontend and backend trends.
 
 - 🔭 I’m currently working as a Data analyst/research assistant and a web-developer at the University of Toronto.
 - 🌱 I published thesis paper on 'Magnetism' in two major Scientific Journals: Data in Brief & Forensic science International. 
