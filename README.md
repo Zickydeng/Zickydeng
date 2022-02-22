@@ -15,7 +15,7 @@ My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesfo
 
 ---
 #### 🎯 SKILLS & TOOLS:
-<p>
+<!-- <p>
 Cloud Stack: <br>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
@@ -36,7 +36,7 @@ Software Development:<br>
 ---
 <table><tr><td valign="top" width="33%">
 
-
+ -->
 
 ### Frontend  
 <div align="center">  
