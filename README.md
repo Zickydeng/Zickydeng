@@ -132,7 +132,7 @@ Software Development:<br>
 </div>
 
 </td></tr></table>  
----
+
 <br/>  
 
 #### 🌐 SOCIAL MEDIA LINKS:
