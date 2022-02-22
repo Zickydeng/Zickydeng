@@ -14,7 +14,7 @@ My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesfo
 - - Portfolio :https://resumportfolio.herokuapp.com/
 
 ---
-#### 🎯 SKILLS & TOOLS:
+#### 🎯 MY SKILL SET & TOOLS:
 ---
 <!-- <p>
 Cloud Stack: <br>
@@ -132,9 +132,9 @@ Software Development:<br>
 </div>
 
 </td></tr></table>  
-
-<br/>  
 ---
+<br/>  
+
 #### 🌐 SOCIAL MEDIA LINKS:
 [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/Zickydeng)
 [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://zickydeng.github.io/)
