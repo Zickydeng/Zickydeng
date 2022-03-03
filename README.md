@@ -11,7 +11,7 @@ My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesfo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: when am not coding, I'm following/reading about technology, checking crypto, anything new in tech.
 - - Portfolio :https://resumportfolio.herokuapp.com/
-#### 💬 You are the Greatest project you will ever get to work on. Take your time & create a magic.
+### 💬 You are the Greatest project you will ever get to work on. Take your time & create a magic. Don't wait for "the one" - Be the ONE!
 ---
 ### 🎯 MY SKILL SET & TOOLS:
 ---
