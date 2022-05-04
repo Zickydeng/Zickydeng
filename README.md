@@ -6,7 +6,7 @@ My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesfo
 
 - 🔭 I’m currently working as a Salesforce Developer LWC Specialist and a part-time frontend React developer.
 - 🌱 I published thesis paper on 'Magnetism' in two major Scientific Journals: Data in Brief & Forensic science International. 
-- 👯 I’m looking for a Salesforce/Frontend-React developer position.
+- 👯 I’m currently looking for Salesforce/Frontend-React developer roles.
 - 📫 How to reach me: elijah.deng@mail.utoronto.ca or dengzicky99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: when am not coding, I'm probably reading about code or NFTs as of late also checking crypto and anything new in tech.
