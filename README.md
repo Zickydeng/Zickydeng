@@ -1,6 +1,6 @@
 ### Hi there👋
 
-#### Bienvenue
+#### Welcome to my GH
 #### Personal Profile
 My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesforce/Frontend React Developer, an avid learner who is super passionate about web developement.I'm also a creative problem solver who identify issues and solve them with positive attitude. I develop plans, take ownership and ddeliver solutions. A tenacious self-starter, highly driven individual with a successful track record in Apps Development.
 
