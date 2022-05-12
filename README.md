@@ -1,8 +1,10 @@
-### Hi there👋
+### Hi there👋!
 
-#### Welcome to my GH
-#### Personal Profile
-My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesforce/Frontend React Developer, an avid learner who is super passionate about web developement.I'm also a creative problem solver who identify issues and solve them with positive attitude. I develop plans, take ownership and ddeliver solutions. A tenacious self-starter, highly driven individual with a successful track record in Apps Development.
+#### Welcome to my GitHub page
+--
+#### I'M Zicky E Deng
+--
+I'm an accomplished 4X Certified Salesforce/Frontend React Developer, an avid learner who is super passionate about web developement.I'm also a creative problem solver who identify issues and solve them with positive attitude. I develop plans, take ownership and ddeliver solutions. A tenacious self-starter, highly driven individual with a successful track record in Apps Development.
 
 - 🔭 I’m currently working as a Salesforce Developer LWC Specialist and a part-time frontend React developer.
 - 🌱 I published thesis paper on 'Magnetism' in two major Scientific Journals: Data in Brief & Forensic science International. 
@@ -15,6 +17,20 @@ My name is Elijah  A  Deng (aka Zicky), I'm an accomplished 4X Certified Salesfo
 ---
 ## 🎯 SKILLS & TECH-STACKS
 ---
+
+### Tools
+
+<div>
+  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
+  <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
+  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
+</div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zickydeng&layout)](https://github.com/Zickydeng/github-readme-stats)
+
 <!-- <p>
 Cloud Stack: <br>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
