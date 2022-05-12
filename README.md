@@ -1,11 +1,12 @@
-### Hi there👋!
+## Hi there 👋 !
 
-#### Welcome to my GitHub page
+#### Welcome to my GitHub
 ---
-#### I'M Zicky E Deng
+#### I'M Elijah A. Deng aka Zicky
 ---
 
-I'm an accomplished 4X Certified Salesforce/Frontend React Developer, an avid learner who is super passionate about web developement.I'm also a creative problem solver who identify issues and solve them with positive attitude. I develop plans, take ownership and ddeliver solutions. A tenacious self-starter, highly driven individual with a successful track record in Apps Development.
+I'm an accomplished 4X Certified Salesforce/Frontend React Developer who is very passionate about web developement. 
+I enjoys developing plans, take ownership, design and deliver solutions. A tenacious self-starter, highly driven individual with strong work ethics. I love developing app, learning new technologies and creating contents. I'm very much pleased to have you here on my gitHub page and I hope we can all learn a thing or two from one another.
 
 - 🔭 I’m currently working as a Salesforce Developer LWC Specialist and a part-time frontend React developer.
 - 🌱 I published thesis paper on 'Magnetism' in two major Scientific Journals: Data in Brief & Forensic science International. 
@@ -13,7 +14,7 @@ I'm an accomplished 4X Certified Salesforce/Frontend React Developer, an avid le
 - 📫 How to reach me: elijah.deng@mail.utoronto.ca or dengzicky99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: when am not coding, I'm probably reading about code or NFTs as of late also checking crypto and anything new in tech.
-- - Portfolio :https://resumportfolio.herokuapp.com/
+- Portfolio :https://resumportfolio.herokuapp.com/
 ### 💬 You are the Greatest project you will ever get to work on. Take your time & create a magic. Don't wait for "the one" - Be the ONE!
 ---
 ## 🎯 SKILLS & TECH-STACKS
@@ -134,7 +135,6 @@ Software Development:<br>
 </div>
 
 </td></tr></table>  
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zickydeng&layout)](https://github.com/Zickydeng/github-readme-stats)
 
