@@ -2,10 +2,10 @@
 
 #### Welcome to my GitHub
 ---
-#### I'M Elijah A. Deng aka Zicky
+#### I'M Elijah A Deng aka Zicky
 ---
 
-I'm an accomplished 4X Certified Salesforce/Frontend React Developer who is very passionate about web developement. 
+I'm an accomplished experienced 4X Certified Salesforce/Frontend React Developer who is very passionate about web developement. 
 I enjoys developing plans, take ownership, design and deliver solutions. A tenacious self-starter, highly driven individual with strong work ethics. I love developing app, learning new technologies and creating contents. I'm very much pleased to have you here on my gitHub page and I hope we can all learn a thing or two from one another.
 
 - 🔭 I’m currently working as a Salesforce Developer LWC Specialist and a part-time frontend React developer.
