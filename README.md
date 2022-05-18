@@ -4,11 +4,9 @@
 ---
 #### I'M Elijah A Deng aka Zicky
 ---
-
 I'm an accomplished experienced 4X Certified Salesforce/Frontend React Developer who is very passionate about web development. 
 I enjoys developing plans, take ownership, design and deliver solutions. A tenacious self-starter, highly driven individual with strong work ethics.
 I love developing app, learning new technologies and creating contents. I'm very much pleased to have you here on my gitHub page and I hope we can all learn a thing or two from one another.
-
 - 🔭 I’m currently working as a Salesforce Developer LWC Specialist and a part-time frontend React developer.
 - 🌱 I published thesis paper on 'Magnetism' in two major Scientific Journals: Data in Brief & Forensic science International. 
 - 👯 I’m currently looking for Salesforce/Frontend-React developer roles.
